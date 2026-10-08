@@ -4,3 +4,7 @@ Filter Lab.app/
 .DS_Store
 __pycache__/
 *.wav
+
+# Windows build output
+Windows/build/
+Windows/build-*/

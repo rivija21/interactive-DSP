@@ -1,0 +1,4 @@
+# Batch files need Windows line endings (cmd mis-reads goto labels otherwise).
+*.bat text eol=crlf
+*.exe binary
+*.ico binary
