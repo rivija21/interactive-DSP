@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+Filter Lab.app/
+.DS_Store
+__pycache__/
+*.wav
